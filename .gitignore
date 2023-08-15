@@ -1,0 +1,8 @@
+.vscode/
+dist/
+test_files/
+yarn-error.log
+node_modules/
+.env
+.DS_Store
+client.properties
